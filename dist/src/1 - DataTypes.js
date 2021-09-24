@@ -1,9 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.anything = exports.colors = exports.file = exports.skills = exports.user = exports.respond = exports.text = exports.side = void 0;
-/*  Learning Data Types
-    Tipos de Datos
-*/
 exports.side = 8;
 exports.text = ", the result is: ";
 exports.respond = true;

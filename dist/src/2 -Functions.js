@@ -1,8 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-/* Learning Type Functions
-   Funciones Tipadas
-*/
 const _1___DataTypes_1 = require("./1 - DataTypes");
 function CalcSquareArea(side, text, respond, user) {
     const area = side * side;

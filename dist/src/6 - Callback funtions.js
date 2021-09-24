@@ -1,7 +1,4 @@
 "use strict";
-/* Learning callback functions
-   Callbakcs
-*/
 function add(n1, n2, callback) {
     const result = n1 + n2;
     callback(result);

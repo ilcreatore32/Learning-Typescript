@@ -1,7 +1,4 @@
 "use strict";
-/* Learning type + type
-   Union de Tipado
-*/
 const data = [1, 2, 3, 4, 5, "Numeros", true];
 function game(dificulty) {
     switch (dificulty) {

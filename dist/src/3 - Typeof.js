@@ -1,7 +1,4 @@
 "use strict";
-/* Learning typeof
-   typeof
-*/
 function merge(first, second) {
     if (typeof first === "number" && typeof second === "number") {
         console.log(first + second);
