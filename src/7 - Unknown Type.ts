@@ -2,7 +2,7 @@
    tipado desconocido
 */
 
-let userInput:unknown = null;
+export let userInput:unknown = null;
 //let userInput:any = null;
 userInput = "Hello";
 userInput = 4;
