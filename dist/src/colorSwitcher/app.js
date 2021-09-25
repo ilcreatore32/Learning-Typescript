@@ -25,7 +25,7 @@ function getRandomNumber() {
 const handleClick = () => {
     let hexColor = "#";
     for (let i = 0; i < 6; i++) {
-        hexColor += hexValues[0];
+        hexColor += hexValues[getRandomNumber()];
     }
     color.textContent = hexColor;
     document.body.style.backgroundColor = hexColor;
